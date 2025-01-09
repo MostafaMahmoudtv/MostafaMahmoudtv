@@ -54,11 +54,11 @@
 
 <!--  My LinuxDesktopSetup  -->
 
-<h3 align="center"> My Setup </h3>
+<h3 align="center">  </h3>
 
 <p align="center">
 <a href="https://www.youtube.com/@MostafaMahmoudTV/videos">
-  <img src="IMGs/MostafaMahmoudtv-AI.jpeg" />
+  <img src="IMGs/Setup.jpeg" />
 </a>
 <p/>
 
