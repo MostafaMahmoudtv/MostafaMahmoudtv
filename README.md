@@ -51,3 +51,15 @@
 [![JavaScript](https://img.shields.io/badge/language-JavaScript-05122A?style=plastic&logo=javascript&color=informational)](https://www.python.org/)
 [![React](https://img.shields.io/badge/language-React-05122A?style=plastic&logo=react&color=informational)](https://www.python.org/)
 <!-- Skills ( Languages & Tools ) -->
+
+<!--  My LinuxDesktopSetup  -->
+
+<h3 align="center"> My Setup </h3>
+
+<p align="center">
+<a href="https://www.youtube.com/@MostafaMahmoudTV/videos">
+  <img src="IMGs/MostafaMahmoudtv-AI.jpeg" />
+</a>
+<p/>
+
+
