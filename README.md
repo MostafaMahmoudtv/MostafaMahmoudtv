@@ -1,3 +1,5 @@
+<img src="GIFs/code.gif" alt="00xWolf">
+
 ```css
 ┌[Mr.MostafaMahmoudtv@git]-(~)
 └> mefetch
