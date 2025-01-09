@@ -1,10 +1,10 @@
-<img src="GIFs/code.gif" alt="00xWolf">
+<img src="GIFs/code.gif" alt="MostafaMahmoudtv">
 
 ```css
 ┌[Mr.MostafaMahmoudtv@git]-(~)
 └> mefetch
 ```
-<div style="display:block;text-align:left"><img align="right" src="gif/00xWolf.gif" border="0" style="width:200px;">
+<div style="display:block;text-align:left"><img align="right" src="IMGs/MostafaMahmoudtv.png" border="0" style="width:200px;">
 
  ```css
  Mr.o0xwolf@GitHub
