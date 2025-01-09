@@ -1,4 +1,4 @@
-<img src="GIFs/code.gif" alt="MostafaMahmoudtv">
+<img src="IMGs/Career-as-a-software-developer.png" alt="MostafaMahmoudtv">
 
 ```css
 ┌[Mr.MostafaMahmoudtv@git]-(~)
