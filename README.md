@@ -1,4 +1,4 @@
-<img src="IMGs/Career-as-a-software-developer.png" alt="MostafaMahmoudtv">
+<img src="IMGs/software-developer-setup.png" alt="MostafaMahmoudtv">
 
 ```css
 ┌[Mr.MostafaMahmoudtv@git]-(~)
