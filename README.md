@@ -1,16 +1,22 @@
-## Hi there 👋
+```css
+┌[Mr.MostafaMahmoudtv@git]-(~)
+└> mefetch
+```
+<div style="display:block;text-align:left"><img align="right" src="gif/00xWolf.gif" border="0" style="width:200px;">
 
+ ```css
+ Mr.o0xwolf@GitHub
+ ------------------------------------------------------------------------------
+ Name: Mostafa Mahmoud
+ Nickname: MostafaMahmoudtv
+ Education: Graduated from *Faculty of Computers and Artificial Intelligence*
+ Department: Information System (IS)
+ University: Fayoum University
+ Interests: ["React", "Video Editing", "Content Creation", "Linux", "FOSS"]
+  ```
 
-**MostafaMahmoudtv/MostafaMahmoudtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+ - [![GitHubFollowers: mmsaeed509](https://img.shields.io/github/followers/MostafaMahmoudtv?style=social)](https://github.com/MostafaMahmoudtv)
+[![GitHubUserStars: mmsaeed509](https://img.shields.io/github/stars/MostafaMahmoudtv?style=social)](https://github.com/MostafaMahmoudtv)
+  - [![ProfileViews](https://komarev.com/ghpvc/?username=MostafaMahmoudtv&style=flat&color=blueviolet)](https://komarev.com/ghpvc/?username=MostafaMahmoudtv&style=flat&color=blueviolet)
+ 
+</div>
