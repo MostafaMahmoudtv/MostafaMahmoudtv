@@ -58,7 +58,7 @@
 
 <p align="center">
 <a href="https://www.youtube.com/@MostafaMahmoudTV/videos">
-  <img src="IMGs/Setup.jpeg" />
+  <img src="IMGs/" />
 </a>
 <p/>
 
